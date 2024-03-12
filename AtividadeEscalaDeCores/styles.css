@@ -1,0 +1,29 @@
+/* Estilos para a escala de cores */
+.color-scale {
+    display:flex;
+    justify-content:right;
+    padding: auto;
+}
+
+.color-box1 {
+    width: 300px;
+    height: 200px;
+    /*border: 1px solid #000;*/
+    border-radius: 20px 20px;;
+    background-color:#48C5DB;
+}
+.color-box2 {
+    width: 300px;
+    height: 200px;
+     /*border: 1px solid #000;*/
+    border-radius: 20px 20px;
+    background-color:#4868DB;
+}
+.color-box3 {
+    width: 300px;
+    height: 200px;
+     /*border: 1px solid #000;*/
+    border-radius: 20px 20px;
+    background-color:#4897DB;
+
+}
