@@ -1,0 +1,30 @@
+.container {
+    text-align: center;
+
+  }
+  
+  .carro {
+    width: 50px;
+    height: 30px;
+    background-image: url(img/icons8-go-kart-48.png);
+    margin-bottom: 50px;
+    
+
+  }
+  
+  #resultado {
+    font-weight: bold;
+  }
+  .pista{
+    background: #808080;
+    width: auto;
+    border: 1px solid #000;
+  }
+
+  .container{
+    width:100%;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 20px;
+    
+}
